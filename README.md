@@ -1,8 +1,10 @@
 ![Vonage](.github/vonage.png)
 
-# Project Title
+# Build a Thing with Kevin Lewis - Serverless Video Conferencing 
 
-Project Description
+Join Kevin Lewis, Developer Advocate at Vonage, as he builds a new project from scratch over several weeks in his new show on [Twitch](https://www.twitch.tv/vonagedevs). Kevin is currently building a serverless video conferencing application using Netlify Functions and MongoDB.
+
+You can join in at any point and follow along with this repo, using branches to find the right week. 
 
 ## Code of Conduct
 
